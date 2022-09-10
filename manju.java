@@ -1,3 +1,2 @@
 Hi my name is manju
-this is first file i have created to practice git command
-second commits
+this is first file i have created to practice git commands
