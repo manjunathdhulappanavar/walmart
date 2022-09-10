@@ -3,6 +3,6 @@ this is first file i have created to practice git command
 second commit
 manju
 kavya
-abhu
+ojus
 adding in feature
 aded 2nd line
